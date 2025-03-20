@@ -4,7 +4,7 @@
 The **Blinkit Power BI Dashboard** provides insightful analytics on sales, outlet performance, and customer preferences. It is designed to help businesses track and analyze their performance using interactive visualizations.
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard](image.png)
+![Blinkit Dashboard](blinkit_dashboard.png)
 
 ## 🎯 Features
 ✅ **Total Sales Analysis**: Displays overall sales performance ($1.20M total sales).  
